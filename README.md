@@ -1,6 +1,3 @@
-
-
-```markdown
 # React Tic-Tac-Toe Game
 
 This is a simple Tic-Tac-Toe game built using React. It allows two players to play the classic game on a 3x3 grid. The game also includes a "Play again" button to reset the game.
