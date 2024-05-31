@@ -139,13 +139,6 @@ button.play-again:hover {
 
 Feel free to submit issues and pull requests. Contributions are welcome!
 
-### License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ### Acknowledgments
 
 - This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-```
-
-This `README.md` file provides a clear and comprehensive overview of the project, instructions for getting started, usage details, and contribution guidelines. Adjust the repository URL and any other specific details as necessary.
