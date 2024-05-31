@@ -1,6 +1,4 @@
-Sure! Here's a sample `README.md` file for your React Tic-Tac-Toe project:
 
-### README.md
 
 ```markdown
 # React Tic-Tac-Toe Game
@@ -30,7 +28,6 @@ These instructions will help you set up the project on your local machine for de
    ```bash
    git clone https://github.com/your-username/react-tic-tac-toe.git
    cd react-tic-tac-toe
-   ```
 
 2. Install the dependencies:
 
